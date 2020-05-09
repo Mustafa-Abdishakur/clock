@@ -1,0 +1,1 @@
+Hand clock (project #2 from javascript30)
